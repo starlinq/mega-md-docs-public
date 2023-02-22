@@ -10,7 +10,7 @@ date: 2022-05-19
 
 Морской окунь обычно бывает не длиннее 20 см, рыба красного цвета и довольно мясистая, поэтому по-корейски часто называется '빨간고기' - 'красное мясо', и к тому же является мелким хищником.
 
-![red-fish-photo](https://github.com/starlinq/mega-md-docs/blob/8bf10624973e2e640dd2b854f82edfb73ec529c5/images/red-fish.PNG)
+![red-fish-photo](https://github.com/starlinq/mega-md-docs-public/blob/bceb08e19e5e142545bdfb138174674c415533e3/images/red-fish.PNG)
 
 На некоторых рынках Пусана такое количество рыбы (6-7 рыб как на картинке) раньше можно было купить примерно за 10,000 вон, но теперь, наверное, будет дороже. / 일부 부산시장에서는 이 정도(6~7마리)를 1만 원대에 살 수 있다. / In some Busan market places you can buy such amount of fish (6-7 fish) for ~10,000 won)
 
